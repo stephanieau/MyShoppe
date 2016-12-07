@@ -210,6 +210,9 @@
     <Reference Include="Plugin.EmbeddedResource, Version=1.0.5489.17538, Culture=neutral, PublicKeyToken=null">
       <HintPath>..\packages\Xam.Plugin.EmbeddedResource.1.0.1.0\lib\portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Plugin.EmbeddedResource.dll</HintPath>
     </Reference>
+    <Reference Include="Calabash">
+      <HintPath>..\packages\Xamarin.TestCloud.Agent.0.20.3\lib\Xamarin.iOS10\Calabash.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MyShop\MyShop.csproj">

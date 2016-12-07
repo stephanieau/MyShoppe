@@ -56,5 +56,7 @@
 	<true/>
 	<key>UIStatusBarStyle</key>
 	<string>UIStatusBarStyleBlackOpaque</string>
+	<key>CFBundleName</key>
+	<string>My Shoppe</string>
 </dict>
 </plist>
